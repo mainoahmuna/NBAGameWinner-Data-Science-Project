@@ -6,7 +6,7 @@ Welcome to the NBA Game Winner Prediction project! This project aims to predict 
 # Prerequisites
 Before running the notebook, ensure that you have the following dependencies installed:
 
-Python 3.x
+Python 3.11.6
 Jupyter Notebook
 Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, BeautifulSoup (for web scraping)
 You can install the required libraries using the following command:
@@ -24,8 +24,5 @@ The project is organized into the following sections:
 7. Deployment: If desired, deploy the trained model for real-time predictions.
 
 # How to Run
-Clone the repository:
-git clone https://github.com/mainoahmuna/nba-game-winner-prediction.git
-cd nba-game-winner-prediction
 
 
