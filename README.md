@@ -24,5 +24,9 @@ The project is organized into the following sections:
 7. Deployment: If desired, deploy the trained model for real-time predictions.
 
 # How to Run
+Run in order. Will not run if ran in different order.
 
+1. Run each shell in the get_data.ipynb
+2. Run each shell in the parse_data.ipynb
+3. Run each shell in the predict.ipynb
 
